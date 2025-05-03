@@ -1,0 +1,74 @@
+.html{
+    background-color: rgb(200, 245, 230);
+}
+
+.title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: rgb(239, 178, 103);
+    
+}
+
+.p{
+    border: 4px solid black;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:x-large;
+    text-align: justify;
+}
+
+.l1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: rgb(245, 129, 71);
+    margin-bottom: 20px;
+}
+
+.l2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: rgb(105, 122, 71);
+    margin-bottom: 20px;
+}
+
+.l3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: rgb(245, 71, 100);
+    margin-bottom: 20px;
+}
+
+.img{
+    border: 3px solid rgba(245, 129, 71);
+    height: 200px;
+    width: 200px;
+    border-radius: 5%
+}
+
+.table{
+    background-color: silver;
+    text-align: center;
+}
+
+.TD{
+    background-color:rgb(157, 170, 238);
+    text-align: center;
+}
+
+.TD2{
+    background-color:rgb(246, 148, 148);
+    text-align: center;
+}
+.TD3{
+    background-color:rgb(148, 246, 148);
+    text-align: center;
+}
+.link{
+    border: 2px solid black;
+    border-radius: 4px; 
+    background-color: rgb(110, 122, 134);
+    color:rgb(29, 30, 32);
+}
+.link:hover{
+    color:rgb(51, 199, 135);
+}
